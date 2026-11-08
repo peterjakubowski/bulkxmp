@@ -1,0 +1,7 @@
+[package]
+name = "bulkxmp"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+xmpkit = "0.1.6"
